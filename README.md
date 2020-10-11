@@ -1,1 +1,3 @@
-# new-demo3-jenkins
+# maven-project
+
+Simple Maven Project for Devops
